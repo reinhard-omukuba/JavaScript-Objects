@@ -50,6 +50,8 @@
 
 .prodSec{
     padding: 50px;
+    display: flex;
+   
 }
 
 .prodSec h1{
@@ -74,4 +76,20 @@
 
 .prodSec img{
     height: 300px;
+}
+
+
+.grandPrice{
+    background-color: orange;
+    padding: 20px 40px;
+    width: min-content;
+    margin-top: 20px;
+}
+
+
+.leftTwo{
+    width: 50%;
+    margin-left: 100px;
+    border: 1px gray dotted;
+    padding: 20px;
 }
